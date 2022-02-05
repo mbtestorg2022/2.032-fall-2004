@@ -4,31 +4,369 @@ title: Calendar
 uid: 25a30769-a6a3-4f37-7866-2ed2d8ffbaa1
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course Overview  {{< br >}}  {{< br >}}Single Particle Dynamics: Linear and Angular Momentum Principles, Work-energy Principle |  |
-| 2 | Examples of Single Particle Dynamics |  |
-| 3 | Examples of Single Particle Dynamics (cont.) |  |
-| 4 | Dynamics of Systems of Particles: Linear and Angular Momentum Principles, Work-energy Principle |  |
-| 5 | Dynamics of Systems of Particles (cont.): Examples  {{< br >}}  {{< br >}}Rigid Bodies: Degrees of Freedom | Problem set 1 due |
-| 6 | Translation and Rotation of Rigid Bodies  {{< br >}}  {{< br >}}Existence of Angular Velocity Vector |  |
-| 7 | Linear Superposition of Angular Velocities  {{< br >}}  {{< br >}}Angular Velocity in 2D  {{< br >}}  {{< br >}}Differentiation in Rotating Frames | Problem set 2 due |
-| 8 | Linear and Angular Momentum Principle for Rigid Bodies |  |
-| 9 | Work-energy Principle for Rigid Bodies | Problem set 3 due |
-| 10 | Examples for Lecture 8 Topics |  |
-| 11 | Examples for Lecture 9 Topics | Problem set 4 due |
-| 12 | Gyroscopes: Euler Angles, Spinning Top, Poinsot Plane, Energy Ellipsoid  {{< br >}}  {{< br >}}Linear Stability of Stationary Gyroscope Motion |  |
-| 13 | Generalized Coordinates, Constraints, Virtual Displacements | Problem set 5 due |
-| 14 | Exam 1 |  |
-| 15 | Generalized Coordinates, Constraints, Virtual Displacements (cont.) |  |
-| 16 | Virtual Work, Generalized Force, Conservative Forces  {{< br >}}  {{< br >}}Examples |  |
-| 17 | D'Alembert's Principle  {{< br >}}  {{< br >}}Extended Hamilton's Principle  {{< br >}}  {{< br >}}Principle of Least Action | Problem set 6 due |
-| 18 | Examples for Lecture 16 Topics  {{< br >}}  {{< br >}}Lagrange's Equation of Motion |  |
-| 19 | Examples for Lecture 17 Topics | Problem set 7 due |
-| 20 | Lagrange Multipliers, Determining Holonomic Constraint Forces, Lagrange's Equation for Nonholonomic Systems, Examples | Problem set 8 due |
-| 21 | Stability of Conservative Systems  {{< br >}}  {{< br >}}Dirichlet's Theorem  {{< br >}}  {{< br >}}Example |  |
-| 22 | Linearized Equations of Motion Near Equilibria of Holonomic Systems | Problem set 9 due |
-| 23 | Linearized Equations of Motion for Conservative Systems  {{< br >}}  {{< br >}}Stability  {{< br >}}  {{< br >}}Normal Modes  {{< br >}}  {{< br >}}Mode Shapes  {{< br >}}  {{< br >}}Natural Frequencies |  |
-| 24 | Examples for Lecture 23 Topics  {{< br >}}  {{< br >}}Orthogonality of Modes Shapes  {{< br >}}  {{< br >}}Principal Coordinates | Problem set 10 due |
-| 25 | Damped and Forced Vibrations Near Equilibria |  |
-| 26 | Exam 2 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview  
+  
+Single Particle Dynamics: Linear and Angular Momentum Principles, Work-energy Principle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Single Particle Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Single Particle Dynamics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems of Particles: Linear and Angular Momentum Principles, Work-energy Principle
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems of Particles (cont.): Examples  
+  
+Rigid Bodies: Degrees of Freedom
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Translation and Rotation of Rigid Bodies  
+  
+Existence of Angular Velocity Vector
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Superposition of Angular Velocities  
+  
+Angular Velocity in 2D  
+  
+Differentiation in Rotating Frames
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Linear and Angular Momentum Principle for Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Work-energy Principle for Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Examples for Lecture 8 Topics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Examples for Lecture 9 Topics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Gyroscopes: Euler Angles, Spinning Top, Poinsot Plane, Energy Ellipsoid  
+  
+Linear Stability of Stationary Gyroscope Motion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Generalized Coordinates, Constraints, Virtual Displacements
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Generalized Coordinates, Constraints, Virtual Displacements (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Virtual Work, Generalized Force, Conservative Forces  
+  
+Examples
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+D'Alembert's Principle  
+  
+Extended Hamilton's Principle  
+  
+Principle of Least Action
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Examples for Lecture 16 Topics  
+  
+Lagrange's Equation of Motion
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Examples for Lecture 17 Topics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lagrange Multipliers, Determining Holonomic Constraint Forces, Lagrange's Equation for Nonholonomic Systems, Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of Conservative Systems  
+  
+Dirichlet's Theorem  
+  
+Example
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Linearized Equations of Motion Near Equilibria of Holonomic Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Linearized Equations of Motion for Conservative Systems  
+  
+Stability  
+  
+Normal Modes  
+  
+Mode Shapes  
+  
+Natural Frequencies
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Examples for Lecture 23 Topics  
+  
+Orthogonality of Modes Shapes  
+  
+Principal Coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Damped and Forced Vibrations Near Equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
