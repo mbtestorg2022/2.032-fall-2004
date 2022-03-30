@@ -5,6 +5,7 @@ description: 'Handwritten notes from Session 12 covering the following topics: G
   stationary gyroscope motion).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-032-dynamics-fall-2004/3a0f31f97c301e4fb228b438dc69e599_session_12.pdf
 file_type: application/pdf
+parent_uid: d0882e89-0897-6753-eb54-8bed3461dba3
 resourcetype: Document
 title: session_12.pdf
 uid: 3a0f31f9-7c30-1e4f-b228-b438dc69e599
